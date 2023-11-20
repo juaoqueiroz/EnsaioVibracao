@@ -1,0 +1,3 @@
+Pesquisa desenvolvida nas dependência do Laboratório de Instrumentação e Automação (LIAE)
+
+O objetivo da pesquisa é desenvolver um ensaio automatizado onde em uma bancada instrumentada com um compressor hermético, um  inversor e um acelerômetro, dados de vibração devem ser adiquiridos para diferentes rotações do compressor, com o objetivo de realizar diversas análises do comportamento vibratório deste equipamento, entre elas, a ocorrencia de ressonância.
