@@ -1,0 +1,3 @@
+C:\Users\LIAE\Desktop\PRH\Projetos\AquisicaoVibracao\Data\BruteData\Ensaio_2023-12-19_3\SW20P
+
+esse é o filepath original, falta fazer para os outros modelos de sensores, mudar so o final do filepath quando for fazer o ensaio
